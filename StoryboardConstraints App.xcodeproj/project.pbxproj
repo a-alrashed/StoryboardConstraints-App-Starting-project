@@ -15,6 +15,7 @@
 		878FCEDD2588B1FD00CA29F5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 878FCEDB2588B1FD00CA29F5 /* LaunchScreen.storyboard */; };
 		878FCEE62588B24400CA29F5 /* Content.swift in Sources */ = {isa = PBXBuildFile; fileRef = 878FCEE52588B24400CA29F5 /* Content.swift */; };
 		878FCEEA2588B27C00CA29F5 /* myExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 878FCEE92588B27C00CA29F5 /* myExtensions.swift */; };
+		87BF2B23258B2EEC009B57B8 /* MainCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87BF2B22258B2EEC009B57B8 /* MainCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		878FCEDE2588B1FD00CA29F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		878FCEE52588B24400CA29F5 /* Content.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Content.swift; sourceTree = "<group>"; };
 		878FCEE92588B27C00CA29F5 /* myExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myExtensions.swift; sourceTree = "<group>"; };
+		87BF2B22258B2EEC009B57B8 /* MainCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				878FCEE92588B27C00CA29F5 /* myExtensions.swift */,
 				878FCED42588B1FD00CA29F5 /* MainViewController.swift */,
 				878FCEE52588B24400CA29F5 /* Content.swift */,
+				87BF2B22258B2EEC009B57B8 /* MainCollectionViewCell.swift */,
 				878FCED62588B1FD00CA29F5 /* Main.storyboard */,
 				878FCED92588B1FD00CA29F5 /* Assets.xcassets */,
 				878FCEDB2588B1FD00CA29F5 /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				878FCED52588B1FD00CA29F5 /* MainViewController.swift in Sources */,
+				87BF2B23258B2EEC009B57B8 /* MainCollectionViewCell.swift in Sources */,
 				878FCED12588B1FD00CA29F5 /* AppDelegate.swift in Sources */,
 				878FCED32588B1FD00CA29F5 /* SceneDelegate.swift in Sources */,
 				878FCEEA2588B27C00CA29F5 /* myExtensions.swift in Sources */,
